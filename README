@@ -1,0 +1,6 @@
+TOY PROBLEMS CODE CHALLENGE
+In this folder contains the JavaScript files used in creating programs that:
+-Generate student grades when marks are inputted.
+-Detects speed and produces demerit points when the speed limit has
+ been surpassed every 5km/hr.
+-Calculates the net salary when the basic salary and benefits are inputted.
